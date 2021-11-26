@@ -59,7 +59,7 @@ The 'positive_negative' column contains the nature(positive or negative) of regu
 
 ## Note
 Please considering editing the script as necessary as your requirement. There could be possible error on matching the character as it relay mainly on the input filetype and structure.
-
+Examples of miRNA names are given, edit the names only.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
