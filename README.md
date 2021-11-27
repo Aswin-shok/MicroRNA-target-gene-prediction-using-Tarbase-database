@@ -51,7 +51,7 @@ The 'positive_negative' column contains the nature(positive or negative) of regu
 * Perl
 * Latest Tarbase v8 database file [link](https://carolina.imis.athena-innovation.gr/diana_tools/web/index.php?r=tarbasev8%2Fdownloaddataform).
 ## Usage
-* Input the miRNA name corresponding to the serial number.
+* Input the miRNA name corresponding to the serial number in miRNA.txt file.
 * Edit the output_file_name in the script.
 * Run using perl ./target_gene.pl
 
@@ -67,6 +67,6 @@ The 'positive_negative' column contains the nature(positive or negative) of regu
 
 Your Name - [@aswinpluster](https://twitter.com/aswinpluster) - aswinashok.33.46@gmail.com
 
-Project Link: [https://github.com/Aswin-shok/LabView-stepper-motor-movement-interface](https://github.com/Aswin-shok/LabView-stepper-motor-movement-interface)
+Project Link: [https://github.com/Aswin-shok/MicroRNA-target-gene-prediction-using-Tarbase-database](https://github.com/Aswin-shok/MicroRNA-target-gene-prediction-using-Tarbase-database)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
