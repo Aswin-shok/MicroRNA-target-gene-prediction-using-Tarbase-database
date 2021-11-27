@@ -28,7 +28,7 @@
 </details>
 
 ## About The Project
-Target gene prediction of miRNA from Tarbase database using simple perl script
+Target gene prediction of miRNA from Tarbase database using simple perl script. The script was developed as a part of circRNA-miRNA-mRNA network construction.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -58,9 +58,9 @@ The 'positive_negative' column contains the nature(positive or negative) of regu
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Note
-Please considering editing the script as necessary as your requirement. There could be possible error on matching the character as it relay mainly on the input filetype and structure.
-Examples of miRNA names are given, edit the names only.
-The output file contains columns 'input miRNA name', 'database matching miRNA name' and all other details present in the database file corresponding to that specific miRNA. 
+* Please considering editing the script as necessary as your requirement. There could be possible error on matching the character as it relay mainly on the input filetype and structure.
+* Examples of miRNA names are given, edit the names only.
+* The output file contains columns 'input miRNA name', 'database matching miRNA name' and all other details present in the database file corresponding to that specific miRNA. 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
